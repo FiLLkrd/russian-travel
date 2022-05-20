@@ -1,8 +1,10 @@
 .website__link {
-    font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 22px;
-    text-decoration-line: underline;
+    margin: 12px 0 0;
+    display: block;
     color: white;
+    font-size: 18px;
+    line-height: 122%;
+    font-weight: 400;
+    text-decoration: underline;
 }
+
