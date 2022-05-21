@@ -8,6 +8,9 @@
     margin-top: 80px;
 }
 
+.place:first-of-type {
+    margin-top: 0;
+}
 
 @media screen and (max-width: 1279px) {
     .place {
@@ -30,8 +33,4 @@
         row-gap: 32px;
         margin-top: 50px;
     }
-}
-
-.place:first-of-type {
-    margin-top: 0;
 }
